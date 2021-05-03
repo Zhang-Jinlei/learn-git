@@ -1,5 +1,4 @@
-# learn design patterns base python
-
+# learn git
 
 
 
