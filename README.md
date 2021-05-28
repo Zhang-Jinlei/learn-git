@@ -11,3 +11,13 @@
   [what is the difference between remotes/origin/HEAD and remotes/origin/master ?](https://www.reddit.com/r/git/comments/4p5p9o/what_is_the_difference_between_remotesoriginhead/)
 
 - 
+
+## For windows
+
+- [git-extrsa](https://github.com/tj/git-extras/blob/master/Installation.md)
+
+- - https://blog.csdn.net/KimmKing/article/details/43858225
+  - https://blog.csdn.net/limm33/article/details/53043988
+  
+  
+

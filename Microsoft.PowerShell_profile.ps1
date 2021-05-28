@@ -17,7 +17,7 @@ New-Alias -Name gs -Value Get-GitStatus -Force -Option AllScope
 function Get-GitSummary { & git summary $args }
 New-Alias -Name gsm -Value Get-GitSummary -Force -Option AllScope
 
-function Get-GitCommit { & git commit -m $args }
+function Get-GitCommit { & git commit -m "..." $args }
 New-Alias -Name gc -Value Get-GitCommit -Force -Option AllScope
 
 function Get-GitCheckout { & git checkout $args }
